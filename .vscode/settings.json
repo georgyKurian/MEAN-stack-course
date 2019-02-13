@@ -1,0 +1,4 @@
+{
+    "typescript.preferences.quoteStyle": "single",
+    "vim.autoSwitchInputMethod.defaultIM": "Insert"
+}
